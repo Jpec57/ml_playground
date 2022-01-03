@@ -1,2 +1,4 @@
-# ml_playground
+# Machine Learning playground
+
 This is a small repository to apply what I have learned in the Udemy tutorial.
+
